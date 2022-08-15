@@ -1,13 +1,13 @@
-- git init: inicia o git dentro de uma pasta
-- git status: visualiza quais arquivos estão dentro da pasta, e quais estão em espera
-- git add *: prepara todos os arquivos
-- git add "": prepara o arquivo descrito dentro das aspas
-- git commit -m "": comita todos os arquivos dentro da pasta que estão em preparo (dentro das aspas coloque a mensagem referente a atualização que está fazendo)
-- git push: envia todos os arquivos dentro da pasta que está trabalhando para o seu repositório principal
-- git config –global user.name "": configura o seu nome que será mostrado dentro do repositório quando enviar um arquivo
-- git config –global user.email exemploemail@gmail.com: configura o e-mail que você irá utilizar (deve ser o mesmo que você utilizou para criar sua conta no GitHub)
-- git branch exemplodebranch: cria uma nova branch dentro do seu repositório
-- git checkout exemplodebranch: muda para outra branch que esteja criada no seu repositório
-- git pull: verifica e faz todas as atualizações dentro da branch que estiver
-- git merge exemplodebranch: uni os arquivos de uma branch para outra
-- touch .gitignore: cria um arquivo em bloco de notas, onde todos os arquivos descritos dentro dele serão ocultados e não ficarão disponível para visualização dentro do seu repositório
+- git init: inicia o git dentro de uma pasta;
+- git status: visualiza quais arquivos estão dentro da pasta, e quais estão em espera;
+- git add *: prepara todos os arquivos;
+- git add "": prepara o arquivo descrito dentro das aspas;
+- git commit -m "": comita todos os arquivos dentro da pasta que estão em preparo (dentro das aspas coloque a mensagem referente a atualização que está fazendo);
+- git push: envia todos os arquivos dentro da pasta que está trabalhando para o seu repositório principal;
+- git config –global user.name "": configura o seu nome que será mostrado dentro do repositório quando enviar um arquivo;
+- git config –global user.email exemploemail@gmail.com: configura o e-mail que você irá utilizar (deve ser o mesmo que você utilizou para criar sua conta no GitHub);
+- git branch exemplodebranch: cria uma nova branch dentro do seu repositório;
+- git checkout exemplodebranch: muda para outra branch que esteja criada no seu repositório;
+- git pull: verifica e faz todas as atualizações dentro da branch que estiver;
+- git merge exemplodebranch: uni os arquivos de uma branch para outra;
+- touch .gitignore: cria um arquivo em bloco de notas, onde todos os arquivos descritos dentro dele serão ocultados e não ficarão disponível para visualização dentro do seu repositório.
