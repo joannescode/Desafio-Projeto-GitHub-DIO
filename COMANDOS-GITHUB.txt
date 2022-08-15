@@ -1,6 +1,0 @@
-- git init: inicia o git dentro de uma pasta
-- git status: visualiza quais arquivos estão dentro da pasta, e quais estão em espera
-- git add *: prepara todos os arquivos
-- git add "": prepara o arquivo descrito dentro das aspas
-- git commit -m: comita todos os arquivos dentro da pasta que estão em prepara
-- touch .gitignore: cria um arquivo em bloco de notas, onde todos os arquivos descritos dentro dele, serão ocultados e não ficarão disponível para visualização dentro do seu repositório
