@@ -1,6 +1,6 @@
 # Desafio-Projeto-GitHub-DIO
 Desafio de projeto da criação do primeiro repositório realizado durante o bootcamp Linux Experience da DIO.
-Utilizei para aprendizado os conteúdos da DIO e do canal Dev Aprender do Youtube, abaixo os links para os conteúdos.
+Utilizei para aprendizado os conteúdos da DIO e do canal Dev Aprender do Youtube.
 Dentro do arquivo GitBash você poderá visualizar todas as funções básicas de git necessárias para realizar seu desafio de projeto.
 
 ## Links-Úteis
