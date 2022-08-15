@@ -10,4 +10,4 @@
 - git checkout exemplodebranch: muda para outra branch que esteja criada no seu repositório
 - git pull: verifica e faz todas as atualizações dentro da branch que estiver
 - git merge exemplodebranch: uni os arquivos de uma branch para outra
-- touch .gitignore: cria um arquivo em bloco de notas, onde todos os arquivos descritos dentro dele, serão ocultados e não ficarão disponível para visualização dentro do seu repositório
+- touch .gitignore: cria um arquivo em bloco de notas, onde todos os arquivos descritos dentro dele serão ocultados e não ficarão disponível para visualização dentro do seu repositório
